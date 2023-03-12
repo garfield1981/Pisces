@@ -21,3 +21,4 @@ sudo wget https://raw.githubusercontent.com/briffy/PiscesQoLDashboard/main/updat
 
 Then run this command to get the dashboard cached values refreshed (SSH)
 sudo wget https://raw.githubusercontent.com/lt-columbo/pisces_tools/main/refresh_dashboard/refresh-dash.sh -O - | sudo bash
+dd
